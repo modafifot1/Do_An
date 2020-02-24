@@ -1,0 +1,10 @@
+﻿  Main.cpp
+D:\DoAn-GT-ChinhThuc\DoAn-GT\Main.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\DoAn-GT-ChinhThuc\DoAn-GT\Main.cpp(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  QuanLy.cpp
+D:\DoAn-GT-ChinhThuc\DoAn-GT\Main.cpp(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\DoAn-GT-ChinhThuc\DoAn-GT\QuanLy.cpp(757,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\DoAn-GT-ChinhThuc\DoAn-GT\QuanLy.cpp(794,28): warning C4805: '==': unsafe mix of type 'bool' and type 'int' in operation
+  Generating Code...
+D:\DoAn-GT-ChinhThuc\DoAn-GT\QuanLy.cpp(932,20): warning C4018: '<': signed/unsigned mismatch
+  DoAn-GT.vcxproj -> D:\DoAn-GT-ChinhThuc\DoAn-GT\Debug\DoAn-GT.exe
